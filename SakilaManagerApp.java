@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 abstract class Entity {
-    protected int id;
+    protected int id; 
     protected Timestamp createdAt;
     protected Timestamp updatedAt;
     protected boolean active;
